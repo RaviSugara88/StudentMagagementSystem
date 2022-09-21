@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486687157225",
+    "project_id": "ignou-80748",
+    "storage_bucket": "ignou-80748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486687157225:android:29d67cdfa54d1f4f067978",
+        "android_client_info": {
+          "package_name": "com.ravitech.ignounew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486687157225-eptg91c988gtoqr9mflchp07qd4kep6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVApcHmbCZZgLZoFJMVxQ7Nt3DgKNB8iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486687157225-eptg91c988gtoqr9mflchp07qd4kep6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

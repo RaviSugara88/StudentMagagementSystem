@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subject_sem_1">
+        <item>Problem Solving and Programming</item>
+        <item>Computer Organisation and Assembly Language Programming</item>
+        <item>Discrete Mathematics</item>
+        <item>Systems Analysis and Design</item>
+        <item>Communication Skills </item>
+        <item>Internet Concepts and Web Design</item>
+    </string-array>
+    <string-array name="subject_sem_2">
+        <item>Data and File Structures</item>
+        <item>Operating System Concepts and Networking Management</item>
+        <item>Introduction to Database Management Systems</item>
+        <item>Object Oriented Technology and Java Programming</item>
+    </string-array>
+    <string-array name="subject_sem_3">
+        <item>Design and Analysis of Algorithms</item>
+        <item>Object Oriented Analysis and Design</item>
+        <item>Advanced Discrete Mathematics</item>
+        <item>Software Engineering</item>
+        <item>Accountancy and Financial Management</item>
+    </string-array>
+    <string-array name="subject_sem_4">
+        <item>Operating Systems</item>
+        <item>Data Communication and Networks</item>
+        <item>Advanced Database Management Systems</item>
+
+    </string-array>
+    <string-array name="subject_sem_5">
+        <item>Advanced Internet Technologies</item>
+        <item>Principles of Management and Information Systems</item>
+        <item>Computer Graphics and Multimedia</item>
+        <item>AI &amp; Knowledge Management</item>
+        <item>Numerical &amp; Statistical Computing</item>
+        <item>Parallel Computing</item>
+    </string-array>
+    <string-array name="program">
+        <item>MCA</item>
+        <item>BCA</item>
+        <item>MBA</item>
+        <item>BBA</item>
+        <item>BA</item>
+        <item>BCOM</item>
+        <item>BED</item>
+        <item>BSC</item>
+
+    </string-array>
+
+</resources>
